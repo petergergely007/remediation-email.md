@@ -1,6 +1,6 @@
 **Subject:** Vulnerability Remediation Commands & Scripts for Testing and Deployment
 
-**Hi [Team],**
+Hi Team,
 
 Based on our initial vulnerability scan and assessment, we have prepared remediation commands and scripts to help you tackle the initial remediation efforts. These can be integrated into your deployment platform (e.g., SCCM). Please test them before deploying to production.
 
@@ -98,5 +98,5 @@ It should return **0x5**.
 Let me know if you have any questions or need any adjustments!
 
 Best regards,
-**Peter Gergely, Security Analyst**<br/>
-**Governance, Risk, and Compliance**
+Peter Gergely, Security Analyst<br/>
+Governance, Risk, and Compliance
